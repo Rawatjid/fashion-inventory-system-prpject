@@ -118,3 +118,4 @@ The dashboard displays:
 
 This project is for educational and demonstration purposes.
 "# Smart-IMS-" 
+"# fashion-inventory-system-prpject" 
